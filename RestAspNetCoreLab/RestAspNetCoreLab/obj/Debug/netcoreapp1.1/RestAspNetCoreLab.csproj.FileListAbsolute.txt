@@ -1,9 +1,0 @@
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\bin\Debug\netcoreapp1.1\RestAspNetCoreLab.deps.json
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\bin\Debug\netcoreapp1.1\RestAspNetCoreLab.runtimeconfig.json
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\bin\Debug\netcoreapp1.1\RestAspNetCoreLab.runtimeconfig.dev.json
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\bin\Debug\netcoreapp1.1\RestAspNetCoreLab.dll
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\bin\Debug\netcoreapp1.1\RestAspNetCoreLab.pdb
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\obj\Debug\netcoreapp1.1\RestAspNetCoreLab.csprojResolveAssemblyReference.cache
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\obj\Debug\netcoreapp1.1\RestAspNetCoreLab.AssemblyInfo.cs
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\obj\Debug\netcoreapp1.1\RestAspNetCoreLab.dll
-C:\Users\Lothbrok\Documents\Estudos\AspNetCore\rest-aspnetcore-lab\RestAspNetCoreLab\RestAspNetCoreLab\obj\Debug\netcoreapp1.1\RestAspNetCoreLab.pdb
