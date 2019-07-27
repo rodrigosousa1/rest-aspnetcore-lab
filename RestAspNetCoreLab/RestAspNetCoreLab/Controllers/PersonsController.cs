@@ -40,7 +40,9 @@ namespace RestAspNetCoreLab.Controllers
         public IActionResult Put([FromBody]Person person)
         {
             if (person == null) return BadRequest();
-            return new ObjectResult(_personService.Update(person));
+            var updatedPerson = _personService.Update(person);
+            if (updatedPerson == null) return BadRequest();
+            return new ObjectResult(updatedPerson);
         }
 
         [HttpDelete("{id}")]

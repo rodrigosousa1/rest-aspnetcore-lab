@@ -12,5 +12,6 @@ namespace RestAspNetCoreLab.Model.Context
         public PgSQLContext(DbContextOptions<PgSQLContext> options) : base(options) { }
 
         public DbSet<Person> Persons { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }

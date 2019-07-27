@@ -38,7 +38,6 @@ namespace RestAspNetCoreLab.Repository.Implementations
             }
             catch (Exception)
             {
-
                 throw;
             }
 
@@ -58,7 +57,7 @@ namespace RestAspNetCoreLab.Repository.Implementations
         {
             var personDb = _context.Persons.SingleOrDefault(p => p.Id.Equals(person.Id));
 
-            if (personDb == null) return new Person();
+            if (personDb == null) return null;
             try
             {
                 _context.Entry(personDb).CurrentValues.SetValues(person);
