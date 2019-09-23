@@ -1,0 +1,2 @@
+﻿ALTER TABLE public."Books"
+ALTER COLUMN "Title" TYPE VARCHAR(255);
